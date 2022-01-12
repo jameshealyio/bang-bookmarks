@@ -7,7 +7,7 @@ Why use this? Well it won't share your search query with DuckDuckGo, and you als
 
 ## Instructions
 
-- Download the latest bookmarks.html from this repository to your local disk
+- Download the [latest bookmarks.html](https://raw.githubusercontent.com/jameshealyio/bang-bookmarks/main/bookmarks.html) from this repository to your local disk
 - Open Bookmarks Manager in Firefox
 - Under *Import and Backup* select *Import Bookmarks from HTML*
 - Select the bookmarks.html
